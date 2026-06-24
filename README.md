@@ -6,14 +6,15 @@ The system is currently used by 9 stores and approximately 130 staff members.
 
 ## Main Portfolio
 
-* `ShiftManagementSystem_Portfolio_KimSunghun.pdf`
+* [Shift Management System Portfolio](./ShiftManagementSystem_Portfolio_KimSunghun.pdf)
 
 ## Additional Documents
 
-* `README.pdf` - English overview
-* `README.ja.pdf` - Japanese overview
-* `auto-shift-case-study.pdf` - Auto Shift V1 design case study
-* `database-schema.pdf` - Database schema and design notes
+* [English Overview](./README.pdf)
+* [Japanese Overview](./README.ja.pdf)
+* [Auto Shift V1 Case Study](./auto-shift-case-study.pdf)
+* [Database Schema Notes](./database-schema.pdf)
+
 
 ## Project Overview
 
